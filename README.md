@@ -1,7 +1,9 @@
 
 ## Быстрый запуск через Docker
 
+git clone https://github.com/GuschinPavel/task7
 
+cd task7
 
 docker compose up -d
 
